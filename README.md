@@ -35,3 +35,14 @@ Monitoring & Evidence
 OpenSSH service events recorded in Event Viewer
 Successful logon audit events visible in Windows Security logs
 Blocked connection attempts from attacker system
+
+
+
+---
+
+## Full Project Report
+
+A detailed executive summary and validation report for this project is available below:
+
+📄 [Download the Full Security Report](SSH_Hardening_IP_Blocking_Report.pdf)
+
